@@ -280,6 +280,21 @@
  <Reference Include="UnityEditor.iOS.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.40f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="Google.VersionHandler">
+ <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.VersionHandlerImpl">
+ <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.VersionHandlerImpl.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.PackageManagerResolver">
+ <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.PackageManagerResolver.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.JarResolver">
+ <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.JarResolver.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.IOSResolver">
+ <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.IOSResolver.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
  <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Library/PackageCache/com.unity.collab-proxy@1.14.18/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
@@ -291,21 +306,6 @@
  </Reference>
  <Reference Include="log4netPlastic">
  <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Library/PackageCache/com.unity.collab-proxy@1.14.18/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
- </Reference>
- <Reference Include="Google.JarResolver">
- <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.JarResolver.dll</HintPath>
- </Reference>
- <Reference Include="Google.VersionHandler">
- <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
- </Reference>
- <Reference Include="Google.VersionHandlerImpl">
- <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.VersionHandlerImpl.dll</HintPath>
- </Reference>
- <Reference Include="Google.IOSResolver">
- <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.IOSResolver.dll</HintPath>
- </Reference>
- <Reference Include="Google.PackageManagerResolver">
- <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Assets/ExternalDependencyManager/Editor/1.2.175/Google.PackageManagerResolver.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
  <HintPath>/Users/jason.greco/Workspace/unity/test-cloudkit/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
