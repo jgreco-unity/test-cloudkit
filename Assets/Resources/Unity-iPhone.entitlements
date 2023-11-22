@@ -9,6 +9,6 @@
 		<string>CloudKit</string>
 	</array>
 	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
-	<string>BVPN9UFA9B.com.unity3d.ucb</string>
+	<string>$(TeamIdentifierPrefix)com.unity3d.ucb</string>
 </dict>
 </plist>
